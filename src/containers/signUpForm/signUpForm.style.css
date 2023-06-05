@@ -1,0 +1,30 @@
+.signup-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.signup-box {
+  flex-basis: 40%;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+h1 {
+  margin: 30px 0;
+}
+
+.signup-container label {
+  display: block;
+}
+
+input {
+  margin-bottom: 10px;
+  height: 25px;
+}
+
+button {
+  margin-bottom: 30px;
+  height: 25px;
+  width: 50%;
+}
